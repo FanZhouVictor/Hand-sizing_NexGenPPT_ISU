@@ -10,7 +10,7 @@
 7. Week 4
 
 
-# Week 1. (May 14 - 18th)
+# Week 1. (May 13 - 19th)
 
 ## Monday 
 1. Meet together with Chandan and Sadegh.
@@ -29,14 +29,20 @@
    - https://www.youtube.com/watch?v=OMJRcjnMMok&t=186s
 ## Wednesday 
 1. Meet and discuss the way to annotate the pictures. Define the sequence of the key points. 
-2. Annotate some number of pictures. (Number to be determined)
+
 
 
 ## Thursday. 
-1. Understand how to train the model based on the Github Repo.
-2. Try to train the model and check if the results are good.
+1. Annotate some number of pictures. (Number to be determined)
+2. learn how to train the model.
+
 
 ## Friday. 
-1. If the model performs well, annotate all palm images and train the model based on the whole dataset. 
-2. Consider the method to calculate the distances between different key points.
-3. find a way to calculate the distance between different key points. 
+1. Understand how to train the model based on the Github Repo.
+2. Try to train the model and check if the results are good.
+   - If the model performs well, annotate all palm images and train the model based on the whole dataset. 
+2. Discuss the method to calculate the distances between the predicted key points.
+
+# Week 2.(May 20 - 26th)
+## Monday 
+1. find the way to calculate the distance between different key points. 
