@@ -2,8 +2,9 @@
 
 # One month plan. 
 1. Week 1
-   - Train the coco-annotate model initially for the palm pictures first, calculate the distance between different key points.
+   - Train the coco-annotate model initially for the palm pictures first
 3. Week 2
+   - Calculate the distance between key points
    - Find a way to embed the model into an APP. Need contact Dr. Baskar.
    - if the previous model performs well, train the model for other two groups of pictures of hand in different angles. 
 5. Week 3
