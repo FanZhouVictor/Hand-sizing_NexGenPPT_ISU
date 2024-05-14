@@ -18,9 +18,9 @@
    - Brainstormed the methods we could use:
      - **Key point detection** -- same as the method we used before.
      - **Color point detection** -- key point detection is better than this.
-     - **SAM** -- need fine tuning, which takes time (needs proof).
-     - **Edge detection after using the SAM** -- since edge detection was previously used and not effective, we don't consider it yet.
-   - Determined to first use the COCO-annotation key point detection, aiming to quickly get a usable model. 
+     - **SAM** -- need fine-tuning, which takes time (needs proof).
+     - **Edge detection after using the SAM** -- since edge detection was previously used and ineffective, we don't consider it yet.
+   - Determined first to use the COCO-annotation key point detection, aiming to get a usable model quickly. 
 
 ## Tuesday 
 1. View the method of using COCO-annotation key point detection.
@@ -29,12 +29,12 @@
    - https://www.youtube.com/watch?v=OMJRcjnMMok&t=186s
 ## Wednesday 
 1. Meet and discuss the way to annotate the pictures. Define the sequence of the key points. 
-2. Annotate 90 palm pictures, 30 pictures per person, with key points in sequence.
+2. Annotate some number of pictures. (Number to be determined)
 
 
 ## Thursday. 
-1. Understand the model setting.
-2. training the model and check if the results are good.
+1. Understand how to train the model based on the Github Repo.
+2. Try to train the model and check if the results are good.
 
 ## Friday. 
 1. If the model performs well, annotate all palm images and train the model based on the whole dataset. 
