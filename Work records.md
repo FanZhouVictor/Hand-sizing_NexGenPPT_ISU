@@ -24,11 +24,12 @@
 
 ## Tuesday 
 1. View the method of using COCO-annotation key point detection.
-2. Learning to annotate the key points of the palm images with sequences.
-
+   - https://github.com/FanZhouVictor/Custom-keypoint-detection?tab=readme-ov-file
+3. Learning to annotate the key points of the palm images with sequences.
+   - https://www.youtube.com/watch?v=OMJRcjnMMok&t=186s
 ## Wednesday 
-1. Meet and discuss the way to annotate the pictures. 
-2. Annotate 90 palm pictures, 30 pictures each, with key points in sequence.
+1. Meet and discuss the way to annotate the pictures. Define the sequence of the key points. 
+2. Annotate 90 palm pictures, 30 pictures per person, with key points in sequence.
 3. Understand the model setting.
 
 ## Thursday. 
