@@ -24,6 +24,7 @@ Video Tutorial： https://www.youtube.com/watch?v=OMJRcjnMMok
 ## Model preparation
 
 ### 1.pretrained model
+The link of the pretrained model to predict the key point: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
 
 ### 2.Parameter changes in config file
 
