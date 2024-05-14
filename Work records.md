@@ -30,12 +30,13 @@
 ## Wednesday 
 1. Meet and discuss the way to annotate the pictures. Define the sequence of the key points. 
 2. Annotate 90 palm pictures, 30 pictures per person, with key points in sequence.
-3. Understand the model setting.
+
 
 ## Thursday. 
-1. training the model based on the understanding from Wednesday and check if the results are good.
-2. If the model performs well, annotate all palm images and train the model based on the whole dataset. 
-3. Consider the method to calculate the distances between different key points.
+1. Understand the model setting.
+2. training the model and check if the results are good.
 
 ## Friday. 
-1. find a way to calculate the distance between different key points. 
+1. If the model performs well, annotate all palm images and train the model based on the whole dataset. 
+2. Consider the method to calculate the distances between different key points.
+3. find a way to calculate the distance between different key points. 
