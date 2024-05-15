@@ -15,6 +15,18 @@ We currently have almost 200 groups of hand pictures; each group has three pictu
 The annotation of the hand can use the coco-annotator: https://github.com/jsbroks/coco-annotator. 
 Video Tutorial： https://www.youtube.com/watch?v=OMJRcjnMMok
 
+1. Install the Docker in the computer
+2. clone the repo
+3. get into the folder
+'''sh
+cd coco-annotator/
+'''
+
+4. run
+   '''sh
+   docker-compose up
+   '''
+5. open "http://localhost:5000" on the local web browser. 
 ### 3. Processing dataset. 
 
 ### 4. Generate TFrecord
